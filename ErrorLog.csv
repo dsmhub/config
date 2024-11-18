@@ -1,1 +1,2 @@
-﻿Timestamp,Source,Message,Solution,Context
+﻿Timestamp,Source,Message,Solution,Context,Solution_Source
+241114_064600,eclipse,java build path not visible in project properties,delete .project file in workspace,,gemini chat - https://gemini.google.com/app/d4b56c59af8eda03
